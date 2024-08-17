@@ -45,7 +45,7 @@ However, the correlations with these weather conditions are generally weak, exce
 ![image](https://github.com/user-attachments/assets/030621ef-514f-4e81-ba93-2032eec626a5)
 
 ### Time Series Analysis
-### Average rented bike count by hour
+#### Average rented bike count by hour
 The line plot below shows that the average rented bike count peaks at 18:00, with a second peak at 08:00.   
 This suggests high bike usage during office rush hours.  
 
