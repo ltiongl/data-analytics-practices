@@ -75,6 +75,6 @@ The data shows that the number of data scientist positions has more than doubled
 The data is visualized in an interactive Tableau dashboard, which you can explore [here](https://public.tableau.com/app/profile/lily.tiong/viz/global_ai_ml_data_science_slaaries/Dashboard).   
 The Tableau dashboard is build from [global_ai_ml_data_science_salaries.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/global-ai-ml-data-science-salaries/global_ai_ml_data_science_salaries.xlsx).  
 
-![image](https://github.com/user-attachments/assets/a2ec3cc2-baa4-45f2-b547-29152c126bde)
+![image](https://github.com/user-attachments/assets/34758ca1-ea3e-42c4-a477-d508980cdeae)
 
 The dashboard features charts displaying the average salary by year, categorized by experience level and the top 10 employee residences. It also includes pie charts for company size, experience level, and employment type. Additionally, there’s a map showing average salaries by country and a scatter plot for average salary by experience level and employment type. The control panel allows for filtering by company location, job title, and work year.  
