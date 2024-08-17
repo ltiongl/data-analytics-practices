@@ -34,7 +34,7 @@ The plot below shows that most subscribers opt for a 24-month subscription, foll
 
 ## Data Visualization
 The data is visualized in an interactive Tableau dashboard, which you can explore [here](https://public.tableau.com/app/profile/lily.tiong/viz/disney_subscription_data/Dashboard).   
-The Tableau dashboard is build from [disney_subscription_data_final.xlsx]([https://github.com/ltiongl/portfolio-projects/blob/main/seoul-bike-sharing/seoul_bike_sharing.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/disney-subscription-data/disney_subscription_data_final.xlsx)) and [disney_subscription_data_final_revenue.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/disney-subscription-data/disney_subscription_data_final_revenue.xlsx).  
+The Tableau dashboard is build from [disney_subscription_data_final.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/disney-subscription-data/disney_subscription_data_final.xlsx) and [disney_subscription_data_final_revenue.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/disney-subscription-data/disney_subscription_data_final_revenue.xlsx).  
 
 ![image](https://github.com/user-attachments/assets/10346013-0035-46bb-b3fa-af99bf814867)
 
