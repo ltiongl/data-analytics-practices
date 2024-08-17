@@ -58,6 +58,7 @@ The rented bike count is noticeably low from December to February, indicating a 
 
 ## Data Visualization
 The data is visualized in an interactive Tableau dashboard, which you can explore [here](https://public.tableau.com/app/profile/lily.tiong/viz/seoul_bike_sharing/Dashboard).   
+The Tableau dashboard is build from [seoul_bike_sharing.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/seoul-bike-sharing/seoul_bike_sharing.xlsx).  
 
 ![image](https://github.com/user-attachments/assets/026a4f74-932b-43fc-98e8-eafdc2d964ab).   
 
