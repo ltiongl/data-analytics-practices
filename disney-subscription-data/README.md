@@ -1,7 +1,7 @@
 # Disney+ Subscription Data Analysis
 
 ## Project Overview
-Using Disney+ subscription data, I analyzed monthly revenue and subscriber demographics.  
+Using Disney+ subscription data, I analyzed monthly revenue and subscriber demographics from the USA, Canada, UK, France, and India, covering the period from June 2021 to June 2024.   
 
 ## Software and Tools
 Python version: `Python 3.9.10`  
@@ -44,4 +44,4 @@ The Tableau dashboard is build from [disney_subscription_data_final.xlsx](https:
 <img src="https://github.com/user-attachments/assets/10346013-0035-46bb-b3fa-af99bf814867">
 </kbd>   
    
-By using the Date by Month control panel, you can view the monthly revenue from Disney+ subscriptions, calculated based on actual subscriber payments. The dashboard also displays the distribution of subscribers by country, with the majority coming from the United States. Additionally, you can analyze subscriber counts by gender and age range for specific time periods.  
+By using the `Date by Month` control panel, you can view the monthly revenue from Disney+ subscriptions, calculated based on actual subscriber payments. The dashboard also displays the distribution of subscribers by country, with the majority coming from the United States. Additionally, you can analyze subscriber counts by gender and age range for specific time periods.  
