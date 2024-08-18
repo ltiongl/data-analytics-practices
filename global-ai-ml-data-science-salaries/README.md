@@ -1,7 +1,7 @@
 # Global AI, ML, and Data Science Salaries Analysis
 
 ## Project Overview
-This project explores global salary trends in AI, ML, and data science from 2020 to 2024. The data includes information on job titles, experience levels, employment types, salaries, employee residences, remote work ratios, company locations, and company sizes.  
+This project explores global salary trends in AI, ML, and data science from 2020 to 2024. The salary trend is analyzed based on job titles, experience levels, employment types, employee residences, remote work ratios, company locations, and company sizes.  
 
 ## Software and Tools
 Python version: `Python 3.9.10`  
