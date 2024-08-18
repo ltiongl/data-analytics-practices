@@ -21,7 +21,7 @@ Changes for data cleaning:
 The `Monthly Revenue` data is not listed out for each month within the plan duration. Only basic univariate analysis was conducted in Python. The data is reorganized to create a new table listing `Monthly Revenue` for each subscription month. Detailed data exploration will be carried out in Tableau.  
  
 ### Univariate Analysis
-#### Count plot of age
+#### Distribution of subscribers by age
 The count plot displays the distribution of subscribers by age.  
 There is no clear trend in the distribution of subscribers' ages.  
 
