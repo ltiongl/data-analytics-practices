@@ -1,5 +1,10 @@
 # Portfolio Projects
 
+## Index
+* [Project 1: Seoul Bike Sharing Analysis](https://github.com/ltiongl/portfolio-projects/blob/main/README.md#project-1-seoul-bike-sharing-analysis)
+* [Project 2: Global AI, ML and Data Science Analysis](https://github.com/ltiongl/portfolio-projects/blob/main/README.md#project-2-global-ai-ml-and-data-science-analysis)
+* [Project 3: Disney+ Subscription Data Analysis](https://github.com/ltiongl/portfolio-projects/blob/main/README.md#project-3-disney-subscription-data-analysis)
+
 ## Project 1: [Seoul Bike Sharing Analysis](https://github.com/ltiongl/portfolio-projects/tree/main/seoul-bike-sharing)
 In this project, I analyze rental bike data from Seoul, covering the period from December 2017 to November 2018.
 
