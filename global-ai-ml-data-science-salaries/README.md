@@ -46,7 +46,9 @@ The analysis is categorized into `univariate analysis`, `bivariate analysis` and
 #### Distribution of annual salary
 The histogram shows that most annual salaries fall within the range of 100,000 to 200,000 USD.   
 
-![image](https://github.com/user-attachments/assets/8721a3b0-cb92-4a25-a4ce-d11c7e6225bd)
+<kbd>
+<img src="https://github.com/user-attachments/assets/8721a3b0-cb92-4a25-a4ce-d11c7e6225bd">
+</kbd>
 
 The statistics summary of salary:
 * mean: 159,188 USD
@@ -56,25 +58,32 @@ The statistics summary of salary:
 #### Top 10 job ranking
 The data provides insights into the top 10 job titles in AI, ML, and data science.  
 
-![image](https://github.com/user-attachments/assets/81ffe7de-e79f-4a60-b0b8-e979d59a5212)
+<kbd>
+<img src="https://github.com/user-attachments/assets/81ffe7de-e79f-4a60-b0b8-e979d59a5212">
+</kbd>
 
 ### Bivariate Analysis
 #### Salary by employment type
 The boxplot shows that full-time positions have the highest average annual salary, followed by contract and part-time roles. Freelance positions have the lowest salaries. The salary range within each employment type is relatively narrow.   
 
-![image](https://github.com/user-attachments/assets/b98830ba-8c8d-46fd-9d34-4c3350b97078)
+<kbd>
+<img src="https://github.com/user-attachments/assets/b98830ba-8c8d-46fd-9d34-4c3350b97078">
+</kbd>
 
 ### Time Series Analysis
 #### Top 10 job title count by year
 The data shows that the number of data scientist positions has more than doubled each year. Data engineer roles have grown at a similar rate, but by 2024, data scientist positions outnumber data engineer roles by approximately 1,000. Software engineer and machine learning engineer job counts have remained similar, with both increasing at the same rate.
 
-![image](https://github.com/user-attachments/assets/4373fa81-6081-45ea-bf88-68fa67023d4a)
-
+<kbd>
+<img src="https://github.com/user-attachments/assets/4373fa81-6081-45ea-bf88-68fa67023d4a">
+</kbd>
 
 ## Data Visualization
 The data is visualized in an interactive Tableau dashboard, which you can explore [here](https://public.tableau.com/app/profile/lily.tiong/viz/global_ai_ml_data_science_slaaries/Dashboard).   
 The Tableau dashboard is build from [global_ai_ml_data_science_salaries.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/global-ai-ml-data-science-salaries/global_ai_ml_data_science_salaries.xlsx).  
 
-![image](https://github.com/user-attachments/assets/34758ca1-ea3e-42c4-a477-d508980cdeae)
-
+<kbd>
+<img src="https://github.com/user-attachments/assets/34758ca1-ea3e-42c4-a477-d508980cdeae">
+</kbd>    
+    
 The dashboard features charts displaying the average salary by year, categorized by experience level and the top 10 employee residences. It also includes pie charts for company size, experience level, and employment type. Additionally, there’s a map showing average salaries by country and a scatter plot for average salary by experience level and employment type. The control panel allows for filtering by company location, job title, and work year.  
