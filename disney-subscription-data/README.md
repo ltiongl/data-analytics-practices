@@ -29,7 +29,7 @@ There is no clear trend in the distribution of subscribers' ages.
 <img src="https://github.com/user-attachments/assets/a73b0b4b-bc7f-410b-a870-758c97028dd0">
 </kbd>
 
-#### Count plot of plan duration
+#### Plan duration ranking
 The plot below shows that most subscribers opt for a 24-month subscription, followed by a 1-month plan as the second most common duration.
 
 <kbd>
