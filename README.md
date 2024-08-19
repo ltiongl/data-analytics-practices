@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Data Analytics Portfolio Projects
 
 ## Index
 * [Project 1: Seoul Bike Sharing Analysis](https://github.com/ltiongl/portfolio-projects/blob/main/README.md#project-1-seoul-bike-sharing-analysis)
