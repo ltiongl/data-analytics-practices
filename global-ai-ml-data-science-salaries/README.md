@@ -78,6 +78,24 @@ The data shows that the number of data scientist positions has more than doubled
 <img src="https://github.com/user-attachments/assets/4373fa81-6081-45ea-bf88-68fa67023d4a">
 </kbd>
 
+## Data Modeling
+I tested the modeling of `salary_in_usd` with `job_title`, ``experience_level` and `employment_type` with the following models:
+* Linear Regression
+* Lasso Regression
+* Ridge Regression
+* Random Forest
+
+The data was split into a train set and a test set in an 80:20 ratio. Models were evaluated using Mean Absolute Error (MAE).  
+
+The performance (MAE) for each model is as follows:
+* Linear Regression: 568612179832.6
+* Lasso Regression: 46810.2
+* Ridge Regression: 46806.8
+* Random Forest: 46742.8
+
+Linear Regression is not suitable for modeling the data due to the presence of excessive outliers.   
+Among the listed models, Random Forest model performs the best.
+
 ## Data Visualization
 The data is visualized in an interactive Tableau dashboard, which you can explore [here](https://public.tableau.com/app/profile/lily.tiong/viz/global_ai_ml_data_science_slaaries/Dashboard).   
 The Tableau dashboard is build from [global_ai_ml_data_science_salaries.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/global-ai-ml-data-science-salaries/global_ai_ml_data_science_salaries.xlsx).  
