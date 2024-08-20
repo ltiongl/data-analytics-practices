@@ -25,8 +25,7 @@ The analysis is categorized into `univariate analysis`, `bivariate analysis`, `m
  
 ### Univariate Analysis
 #### Distribution of rented bike count per hour
-The histogram shows that the rented bike count per hour is heavily right-skewed.   
-The mean value is 704.6, the median is 504.5, and the standard deviation is 645.0.  
+The histogram reveals that the hourly bike rental count is heavily right-skewed, with a mean of 704.6, a median of 504.5, and a standard deviation of 645.0.
 
 <kbd>
 <img src="https://github.com/user-attachments/assets/776a5e03-33be-4b1e-838d-789b9e12f57e">
@@ -66,7 +65,24 @@ The rented bike count is noticeably low from December to February, indicating a 
 <kbd>
 <img src="https://github.com/user-attachments/assets/eae80021-202b-4f41-9050-2bd10b9d54b0">
 </kbd>
- 
+
+## Data Modeling
+I modeled the rented bike count based on environmental conditions, including `Temperature(°C)`, `Humidity(%)`, `Wind speed (m/s)`, `Visibility (10m)`, `Dew point temperature(°C)`, `Solar Radiation (MJ/m2)`, `Rainfall(mm)` and `Snowfall (cm)`, using the following models:     
+* Linear Regression
+* Lasso Regression
+* Ridge Regression
+* Random Forest
+
+The data was split into a train set and a test set in an 80:20 ratio. Models were evaluated using Mean Absolute Error (MAE).  
+
+The performance (MAE) for each model is as follows:
+* Linear Regression: 366.0
+* Lasso Regression: 365.7
+* Ridge Regression: 366.0
+* Random Forest: 265.2
+
+As a result, the Random Forest model outperformed the others.
+
 ## Data Visualization
 The data is visualized in an interactive Tableau dashboard, which you can explore [here](https://public.tableau.com/app/profile/lily.tiong/viz/seoul_bike_sharing/Dashboard).   
 The Tableau dashboard is build from [seoul_bike_sharing.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/seoul-bike-sharing/seoul_bike_sharing.xlsx).  
