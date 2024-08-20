@@ -25,7 +25,8 @@ The analysis is categorized into `univariate analysis`, `bivariate analysis`, `m
  
 ### Univariate Analysis
 #### Distribution of rented bike count per hour
-The histogram shows that the rented bike count per hour is heavily right-skewed, with the majority of counts concentrated between 0 and 300.
+The histogram shows that the rented bike count per hour is heavily right-skewed.   
+The mean value is 704.6, the median is 504.5, and the standard deviation is 645.0.  
 
 <kbd>
 <img src="https://github.com/user-attachments/assets/776a5e03-33be-4b1e-838d-789b9e12f57e">
@@ -37,7 +38,7 @@ The boxplot below indicates that summer has the highest rented bike count, with 
 This is followed by autumn and spring. Winter has the lowest rented bike count, with a median of less than 500.  
 
 <kbd>
-![image](https://github.com/user-attachments/assets/b038640b-304c-45cf-a989-d53acec43a06)
+<img src="https://github.com/user-attachments/assets/b038640b-304c-45cf-a989-d53acec43a06">
 </kbd>
  
 ### Multivariate Analysis
