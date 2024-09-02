@@ -88,7 +88,7 @@ The data is visualized in an interactive Tableau dashboard, which you can explor
 The Tableau dashboard is build from [seoul_bike_sharing.xlsx](https://github.com/ltiongl/portfolio-projects/blob/main/seoul-bike-sharing/seoul_bike_sharing.xlsx).  
 
 <kbd>
-<img src="https://github.com/user-attachments/assets/026a4f74-932b-43fc-98e8-eafdc2d964ab">
-</kbd>  
-  
+<img src="https://github.com/user-attachments/assets/4e383678-75d4-4c33-bbb0-11ec1b50297b">
+</kbd> 
+
 By interacting with the moving average chart, we can gain insights into the average rented bike count over a specific period. The total bike count for that period is displayed, and the heatmap in the Tableau dashboard also reveals the total bike count under specific temperature and wind speed conditions. The rented bike count by hour for each selected condition can be viewed using the tooltip in both the heatmap and the moving average chart.  
