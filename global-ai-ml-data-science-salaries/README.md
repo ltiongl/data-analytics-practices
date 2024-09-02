@@ -79,7 +79,7 @@ The data shows that the number of data scientist positions has more than doubled
 </kbd>
 
 ## Data Modeling
-I tested the modeling of `salary_in_usd` with `job_title`, ``experience_level` and `employment_type` with the following models:
+I tested the modeling of `salary_in_usd` with `job_title`, `experience_level` and `employment_type` with the following models:
 * Linear Regression
 * Lasso Regression
 * Ridge Regression
