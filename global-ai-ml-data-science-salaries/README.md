@@ -12,7 +12,7 @@ Tableau: `Tableau Desktop Public Edition 2024.2.0`
 The dataset is obtained from `Kaggle` [Global AI, ML, and Data Science Salaries](https://www.kaggle.com/datasets/msjahid/global-ai-ml-and-data-science-salaries).  
 
 ## Data Cleaning
-The dataset contains no Null values but has 16,646 duplicate entries. These duplicates were left intact, as it’s possible for identical data to represent different cases, so no action was required.  
+The dataset contains no `Null` values but has 16,646 duplicate entries. These duplicates were left intact, as it’s possible for identical data to represent different cases, so no action was required.  
   
 For data cleanup:   
 1. Abbreviations and numeric codes were updated to descriptive words for easier readability. 
