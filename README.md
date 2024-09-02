@@ -14,7 +14,7 @@ While the data may be somewhat outdated, I am using it as a practice exercise fo
 The analytical skills demonstrated here can be applied to similar rental bike datasets, aiding in the planning and management of rental bike systems. This includes ensuring a stable supply of rental bikes, regardless of city location or time.  
 
 <kbd>
-<img src="https://github.com/user-attachments/assets/50b9ec04-0c60-483e-9b5c-55b6192ae3b3" width="600" height="320">
+<img src="https://github.com/user-attachments/assets/4e383678-75d4-4c33-bbb0-11ec1b50297b" width="600" height="320">
 </kbd>
 
 ---
